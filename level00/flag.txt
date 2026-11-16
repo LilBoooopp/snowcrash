@@ -1,7 +1,1 @@
-level00@snowcrash:~$ nm /opt/snowcrash/level00/hiro | grep -i flag
-0000000000004640 r flag_data
-0000000000006060 b g_shutdown_flag
-level00@snowcrash:~$ objdump -s /opt/snowcrash/level00/hiro | grep -A2 4640
- 4640 66326176 35696c30 32707561 6e6f376e  f2av5il02puano7n
- 4650 61616636 61646166 336100             aaf6adaf3a.     
-Contents of section .eh_frame_hdr:
+f2av5il02puano7naaf6adaf3a
